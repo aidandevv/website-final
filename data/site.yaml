@@ -1,0 +1,13 @@
+# Copyright Notice
+copyright: "© 2022 Copyright Aidan DeVaney."
+
+# Meta description for site
+description: Portfolio and personal website of Aidan DeVaney.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Aidan DeVaney's Website
+  type: website
+  description: Portfolio and personal website of Aidan DeVaney.
+  image: images/logo-black-trans.png
+  url: https://hugo-toha.github.io

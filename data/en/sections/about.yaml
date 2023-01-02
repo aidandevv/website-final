@@ -1,0 +1,70 @@
+# Section Information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# Designation
+designation: Student
+company:
+  name: UC Davis
+  url: "https://cs.ucdavis.edu/"
+
+# Summary
+summary: "I am a freshman enrolled in the University of California Davis currently pursuing a Bachelor's of Science in Computer Science. You can check out my contact information below!"
+
+# Socials
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "amdevaney@ucdavis.edu"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/aidandevv"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/aidan-devaney/"
+
+# Resume Section
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+# Skill confidence section
+
+badges:
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: orange
+
+- type: soft-skill-indicator
+  name: C/C++
+  percentage: 85
+  color: pink
+
+- type: soft-skill-indicator
+  name: Python
+  percentage: 75
+  color: green
+
+- type: soft-skill-indicator
+  name: Java
+  percentage: 70
+  color: black

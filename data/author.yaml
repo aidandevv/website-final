@@ -1,0 +1,31 @@
+# Copyright Notice
+copyright: © 2020 Copyright Aidan DeVaney.
+
+#Main page info
+name: "Aidan"
+greeting: "Hey! I'm "
+image: "images/headshot.jpg"
+summary:
+  - I am a student
+  - I am a leader
+  - I am a team player
+  - I enjoy collaborating on meaningful projects
+
+#Footer contact info
+contactInfo:
+  email: "amdevaney@ucdavis.edu"
+  linkedin:
+    icon: linkedin
+    url: https://www.linkedin.com/in/aidan-devaney/
+    text: "Aidan"
+
+# Meta description for site.
+description: Portfolio and personal website of Aidan DeVaney.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Aidan's Site
+  type: website
+  description: Portfolio and personal website of Aidan DeVaney.
+  image: images/author/john.png
+  url: https://hugo-toha.github.io

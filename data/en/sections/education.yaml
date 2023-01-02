@@ -1,0 +1,26 @@
+# Section Information
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+ # High school section
+degrees:
+  - name: High School Diploma
+    icon: fa-school
+    timeframe: 2018-2022
+    institution:
+      name: Clovis West High School
+      url: 'https://cwhs.cusd.com/'
+    grade:
+        scale: GPA
+        achieved: 4.59
+        outOf: a 4.0 scale
+    extracurricularActivities:
+    - Founder and President of the Computer Science club.
+    - Founder and President of the Habitat for Humaniy club.
+    - Varsity swimmer and Water Polo player.
+    - Valedictorian
