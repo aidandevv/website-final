@@ -40,7 +40,6 @@
 <section class="content-section" id="content-section">
   <div class="content container-fluid" id="content">
     <div class="container-fluid post-card-holder" id="post-card-holder">
-      {{ $paginator := .Paginate $posts 12 }}
       {{ range $paginator.Pages }}
         {{ if .Layout }}
           {{/* ignore the search.md file*/}}
