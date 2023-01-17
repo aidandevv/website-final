@@ -9,19 +9,19 @@ section:
 skills:
 - name: C
   logo: /images/sections/skills/c++.png
-  summary: "Know intermediate C/C++ programming. Used for problem solving and academic projects."
+  summary: "Experienced in intermediate C/C++ programming. Used for problem solving and academic projects."
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Know basic Python programming. Used for hobby projects and problem solving."
+  summary: "Experienced in basic Python programming. Used for hobby projects and problem solving."
 
 - name: Java
   logo: /images/sections/skills/java.png
-  summary: "Know basic Java. Used in academic projects."
+  summary: "Experienced in basic Java. Used in academic projects."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Know and experienced in essential git development and collaborating on large-scale projects, primarily with Github."
+  summary: "Experienced in essential git development and collaborating on large-scale projects, primarily with Github."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -29,4 +29,4 @@ skills:
 
 - name: Spanish
   logo: /images/sections/skills/globe3.png
-  summary: "Ability to read, write, and speak Spanish. California Seal of Biliteracy holder."
+  summary: "Ability to read, write, and speak basic conversational Spanish. California Seal of Biliteracy holder."
