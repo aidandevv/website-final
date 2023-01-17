@@ -1,13 +1,6 @@
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
-{{- if $.IsHome -}}
-{{- $pages = sort $pctx.RegularPages "Date" "desc" -}}
-{{- else if $.IsSection -}}
-{{- $pages = sort $pctx.RegularPagesRecursive "Date" "desc" -}}
-{{- else -}}
-{{- $pages = sort $pctx.RegularPagesRecursive "Date" "desc" -}}
-{{- end -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
