@@ -40,13 +40,6 @@
 <section class="content-section" id="content-section">
   <div class="content container-fluid" id="content">
     <div class="container-fluid post-card-holder" id="post-card-holder">
-      {{ range $paginator.Pages }}
-        {{ if .Layout }}
-          {{/* ignore the search.md file*/}}
-        {{ else }}
-          {{ partial "cards/post.html" . }}
-        {{ end }}
-      {{ end }}
     </div>
     <div class="paginator">
       {{ template "_internal/pagination.html" . }}
