@@ -10,17 +10,3 @@ openGraph:
   type: website
   description: Portfolio and personal website of Aidan DeVaney.
   image: images/logo-black-trans.png
-
-customMenus:
-- name: About
-  url: https://aidandevaney.com#about
-  hideFromNavbar: false
-  showOnFooter: true
-- name: Skills
-  url: https://aidandevaney.com#skills
-  hideFromNavbar: false
-  showOnFooter: true
-- name: Education
-  url: https://aidandevaney.com#education
-  hideFromNavbar: false
-  showOnFooter: true
