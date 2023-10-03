@@ -11,13 +11,13 @@ skills:
   logo: /images/sections/skills/c++.png
   summary: "Experienced in intermediate C/C++ programming. Used for problem solving and academic projects."
 
-- name: Python
-  logo: /images/sections/skills/python.png
-  summary: "Experienced in basic Python programming. Used for hobby projects and problem solving."
+- name: CAPM®
+  logo: /images/sections/skills/capm.png
+  summary: "Certified Associate in Project Management through the Project Management Institute. Experienced in project management, planning, and execution."
 
-- name: Java
-  logo: /images/sections/skills/java.png
-  summary: "Experienced in basic Java. Used in academic projects."
+- name: CSM
+  logo: /images/sections/skills/csm.png.webp
+  summary: "Certified Scrum Master through Scrum Alliance. Experienced in leading cross-functional teams, facilitating and planning sprints, and agile development."
 
 - name: Git
   logo: /images/sections/skills/git.png

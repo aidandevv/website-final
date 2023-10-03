@@ -14,7 +14,7 @@ company:
   url: "https://cs.ucdavis.edu/"
 
 # Summary
-summary: "I am a freshman at the University of California Davis. I'm pursuing a Bachelor of Science degree in Computer Science. You can check out my contact information below!"
+summary: "I am second year student at the University of California Davis. I'm pursuing a Bachelor of Science degree in Computer Science and a minor in Tech Management. You can check out my contact information below!"
 
 # Socials
 socialLinks:
@@ -40,17 +40,17 @@ resourceLinks:
 badges:
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: Project Management
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Agile Leadership
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Database Management
   percentage: 95
   color: orange
 
@@ -65,6 +65,6 @@ badges:
   color: green
 
 - type: soft-skill-indicator
-  name: Java
+  name: Javascript
   percentage: 70
   color: black

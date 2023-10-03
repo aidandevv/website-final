@@ -1,13 +1,13 @@
 # Copyright Notice
-copyright: © 2020 Copyright Aidan DeVaney.
+copyright: © 2023 Copyright Aidan DeVaney.
 
 #Main page info
 name: "Aidan"
 greeting: "Hey! I'm "
 image: "images/headshot.jpg"
 summary:
-  - I am a student
-  - I am a leader
+  - I lead cross-functional teams.
+  - I own projects from ideation to delivery.
   - I am a team player
   - I enjoy collaborating on meaningful projects
 
