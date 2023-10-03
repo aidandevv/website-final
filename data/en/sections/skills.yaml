@@ -16,12 +16,12 @@ skills:
   summary: "Certified Associate in Project Management through the Project Management Institute. Experienced in project management, planning, and execution."
 
 - name: CSM
-  logo: /images/sections/skills/csm.png.webp
+  logo: /images/sections/skills/csm.png
   summary: "Certified Scrum Master through Scrum Alliance. Experienced in leading cross-functional teams, facilitating and planning sprints, and agile development."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced in essential git development and collaborating on large-scale projects, primarily with Github."
+  summary: "Experienced in essential Git development and collaborating on large-scale projects, primarily with GitHub."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -29,4 +29,4 @@ skills:
 
 - name: Spanish
   logo: /images/sections/skills/globe3.png
-  summary: "Ability to read, write, and speak basic conversational Spanish. California Seal of Biliteracy holder."
+  summary: "Ability to read, write, and speak conversational Spanish. California Seal of Biliteracy holder."
