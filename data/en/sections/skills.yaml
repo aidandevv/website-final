@@ -7,17 +7,18 @@ section:
   showOnNavbar: true
  # Skills
 skills:
-- name: C
-  logo: /images/sections/skills/c++.png
-  summary: "Experienced in intermediate C/C++ programming. Used for problem solving and academic projects."
+
 
 - name: CAPM®
   logo: /images/sections/skills/capm.png
-  summary: "Certified Associate in Project Management through the Project Management Institute. Experienced in project management, planning, and execution."
-
+  summary: "Certified Associate in Project Management through the Project Management Institute (PMI). Experienced in risk and project management, planning, and execution."
 - name: CSM
   logo: /images/sections/skills/csm.png
   summary: "Certified Scrum Master through Scrum Alliance. Experienced in leading cross-functional teams, facilitating and planning sprints, and agile development."
+
+- name: C
+  logo: /images/sections/skills/c++.png
+  summary: "Experienced in intermediate C/C++ programming. Used for problem solving and academic projects."
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -27,6 +28,6 @@ skills:
   logo: /images/sections/skills/linux.png
   summary: "Experienced in using Linux operating systems."
 
-- name: Spanish
-  logo: /images/sections/skills/globe3.png
-  summary: "Ability to read, write, and speak conversational Spanish. California Seal of Biliteracy holder."
+- name: Database Management
+  logo: /images/sections/skills/mongo.png
+  summary: "Experience with database creation, optimization, and management. Used Ellucian, Oracle, and MongoDB."

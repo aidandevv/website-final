@@ -9,8 +9,25 @@ section:
 
  # High school section
 degrees:
-  - name: High School Diploma
+  - name: B.S. Computer Science, Minor In Technology Management
     icon: fa-school
+    timeframe: 2022-Expected 2026
+    institution:
+      name: University of California, Davis
+      url: "https://cs.ucdavis.edu/"
+    takenCourses:
+      showGrades: false
+      collapseAfter: 3
+      courses:
+      - name: Data Structures and Algorithms
+      - name: Technology Management
+      - name: Computer Organization and Machine Dependent Programming
+      - name: Discrete Mathematics for Computer Science
+      - name: Software Development and Object-Oriented Programming in C++
+       
+  
+  - name: High School Diploma
+    icon: fa-graduation-cap
     timeframe: 2018-2022
     institution:
       name: Clovis West High School
