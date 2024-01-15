@@ -14,10 +14,10 @@ summary:
 #Footer contact info
 contactInfo:
   email: "amdevaney@ucdavis.edu"
-  linkedin:
-    icon: linkedin
-    url: https://www.linkedin.com/in/aidan-devaney/
-    text: "Aidan"
+  # linkedin:
+  #   icon: linkedin
+  #   url: https://www.linkedin.com/in/aidan-devaney/
+  #   text: "LinkedIn"
 
 # Meta description for site.
 description: Portfolio and personal website of Aidan DeVaney.

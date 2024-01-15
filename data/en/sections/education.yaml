@@ -19,11 +19,14 @@ degrees:
       showGrades: false
       collapseAfter: 3
       courses:
-      - name: Data Structures and Algorithms
-      - name: Technology Management
-      - name: Computer Organization and Machine Dependent Programming
-      - name: Discrete Mathematics for Computer Science
-      - name: Software Development and Object-Oriented Programming in C++
+      - name: Data Structures and Algorithms (ECS 36C)
+      - name: Management of Innovation & Entrepreneurship (MGT 151)
+      - name: Algorithm Design & Analysis (ECS 122A)
+      - name: Managing & Using Information Technology (MGT 120)
+      - name: Computer Organization & Machine-Dependent Programming (ECS 50)
+      - name: Technology Management (MGT 150)
+      - name: Discrete Mathematics for Computer Science (ECS 20)
+      - name: Software Development and Object-Oriented Programming in C++ (ECS 36B)
        
   
   - name: High School Diploma
@@ -39,5 +42,8 @@ degrees:
     extracurricularActivities:
     - Founder and President of the Computer Science club
     - Founder and President of the Habitat for Humanity club
+    - Member of the National Honor Society
+    - Principal's Honor Roll
+    - USA Water Polo Academic All-American
     - Varsity swimmer and Water Polo player
     - Valedictorian
