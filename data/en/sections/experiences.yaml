@@ -1,0 +1,43 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+experiences:
+- company:
+    name: CodeLab
+    url: "https://www.codelabdavis.com/"
+    location: in Davis, CA
+    logo: /images/codelablogo.png
+    overview: CodeLab is a student-run software and design agency at UC Davis, working with clients to develop custom software solutions and websites. We provide students with real-world experience in software development, project management, and design.
+  positions:
+  - designation: Software Education Lead
+    start: May 2024
+    responsibilities:
+    - Creating a comprehensive education platform for a cohort of 100+ developers, designers, and project managers teaching full-stack development of mobile and web applications.
+    - 25+ modules include Dart, Flutter, TypeScript, APIs, React, CSS, Next.js, AI/ML, Git Workflows.
+
+  - designation: Developer
+    start: October 2023
+    end: June 2024
+    responsibilities:
+    - Leveraged the MERN stack with a 10-member Agile team to develop a mobile application to streamline students' on-campus dining options based on allergens and nutritional needs.
+    - Delivered an easy and convenient way to find on-campus meals to meet 9000 students’ dietary needs.
+
+- company:
+    name: UC Davis Supply Chain Management
+    url: "https://supplychain.ucdavis.edu/"
+    location: in Davis, CA
+    logo: /images/davis.png
+    overview: I work with the Supply Chain Management and Finance Operations, and Administration teams at UC Davis to provide financial and data analysis, project management, and process improvement for the university's procurement and financial systems.
+  positions:
+  - designation: Solutions and Financial Analysis Assistant
+    start: May 2024
+    responsibilities:
+    - Engineered and implemented an automated internal tool utilizing the Pandas and Tkinter Python libraries, reducing task turnaround time by 85%.
+    - Assisting in data analysis, migration, and cleanup during the cutover between the Kuali and Oracle platforms with a target of zero data loss.
+    - Managing financial data analytics for 25 departments with over $1.1 million in reconciliation efforts while providing outreach to internal and external stakeholders to resolve discrepancies.

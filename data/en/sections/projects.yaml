@@ -1,0 +1,36 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+
+projects:
+- name: Fathership.dev
+  logo: images/fathership.png
+  role: Founder & Developer
+  timeline: "June 2024 - Present"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: https://fathership.dev/
+  summary: Web app using a fine-tuned GPT API to provide a space to talk to a father figure anytime, anywhere.
+  tags: ["ruby on rails", "tailwind css", "cloud", "api", "aws ec2","postgresql"]
+
+- name: Aggie Dining
+  logo: images/aggieDiningLogo.png
+  role: Developer
+  timeline: "October 2023 - June 2024"
+  # url: ""
+  summary: React Native mobile app providing easy allergen and nutrition information on UC Davis dining hall menus.
+  tags: ["react native", "mongodb","firebase","express.js","tailwind css","typescript"]
+
+- name: UC Davis Financial Services
+  logo: images/davis.png
+  role: Developer
+  timeline: "September 2024 - Present"
+  # url: ""
+  summary: Employee financial services web app I’m developing with UC Davis Admin IT.
+  tags: ["professional", "kubernetes", "cloud"]  

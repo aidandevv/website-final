@@ -14,7 +14,7 @@ company:
   url: "https://cs.ucdavis.edu/"
 
 # Summary
-summary: "I'm a second year student at the University of California, Davis. I'm pursuing a Bachelor of Science degree in Computer Science and a minor in Tech Management. You can check out my contact information below!"
+summary: "I'm a third year student at the University of California, Davis. I'm pursuing a Bachelor of Science degree in Computer Science and a minor in Tech Management. You can check out my contact information below!"
 
 # Socials
 socialLinks:
@@ -38,6 +38,20 @@ resourceLinks:
 # Skill confidence section
 
 badges:
+- type: certification
+  name: Certified Associate in Project Management (CAPM)®
+  url: "https://www.credly.com/badges/95e9d17e-ef6b-48ab-b29e-bb7df3f7be79/public_url"
+  badge: "https://images.credly.com/size/340x340/images/ad9ad44b-54b8-4916-ba10-7b131da0b732/capm-600px.png"
+
+- type: certification
+  name: Certified Scrum Master (CSM)
+  url: "https://bcert.me/scpnlidna"
+  badge: "https://www.scrumalliance.org/badges/sa-csm-600.png"
+
+- type: certification
+  name: CompTIA Security+
+  url: "https://www.credly.com/badges/e34475ee-c257-45f7-a2ca-00cd293a69be/public_url"
+  badge: "https://security.ine.com/wp-content/uploads/2024/06/CompTIA-Security-300x251.png"
 
 - type: soft-skill-indicator
   name: Project Management
@@ -50,12 +64,12 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Database Management
+  name: Ruby on Rails
   percentage: 85
   color: orange
 
 - type: soft-skill-indicator
-  name: C/C++
+  name: Cybersecurity
   percentage: 85
   color: pink
 
@@ -65,6 +79,6 @@ badges:
   color: green
 
 - type: soft-skill-indicator
-  name: Javascript
+  name: Frontend Development
   percentage: 70
   color: black

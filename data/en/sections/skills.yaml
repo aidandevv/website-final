@@ -12,17 +12,18 @@ skills:
 - name: CAPM®
   logo: /images/sections/skills/capm.png
   summary: "Certified Associate in Project Management through the Project Management Institute (PMI). Experienced in risk and project management, planning, and execution."
+
 - name: CSM
   logo: /images/sections/skills/csm.png
   summary: "Certified Scrum Master through Scrum Alliance. Experienced in leading cross-functional teams, facilitating and planning sprints, and agile development."
 
-- name: C
-  logo: /images/sections/skills/c++.png
-  summary: "Experienced in intermediate C/C++ programming. Used for problem solving and academic projects."
+- name: Cybersecurity
+  logo: /images/sections/skills/securityplus.png
+  summary: "Well-versed in cybersecurity concepts and applications. Earned CompTIA Security+ certification, and have applied experience with AWS Security Groups."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced in essential Git development and collaborating on large-scale projects, primarily with GitHub."
+- name: Ruby on Rails
+  logo: /images/sections/skills/rails.png
+  summary: "Experience with Ruby and Ruby on Rails through my AI chat app, Fathership, which utilized Redis, API pipelines, and user account management systems."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
